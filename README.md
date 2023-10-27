@@ -1,4 +1,4 @@
-This is a slightly customized version of scratchblocks that we use for TurboWarp's extension documentation.
+This is a slightly customized version of scratchblocks that we use for MirrorWarp's extension documentation.
 
 These patches are not a suggestion for upstream.
 
